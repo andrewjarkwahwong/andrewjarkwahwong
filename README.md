@@ -21,7 +21,7 @@ I hope the scripts and tools in my repositories help you!
 <a href="https://x.com/DrewJWong"> <img alt="twitter" class="icon" src="738px-Twitter_bird_logo_2012.png" style="width:20px; height:16px; margin-right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>Twitter:</b> @drewjwongphd</a>
 
 ## Curriculum Vitae 📰
-My CV can be [**found here**](https://andrewjarkwahwong.github.io/cv.html)
+My CV can be [**found here**]([https://andrewjarkwahwong.github.io/cv.html](https://andrewjarkwahwong.github.io/cv/))
 
 </br>
 
